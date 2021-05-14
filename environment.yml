@@ -118,7 +118,6 @@ dependencies:
   - libzopfli
   - locket
   - lz4-c
-  - m2w64-libwinpthread-git
   - markupsafe
   - matplotlib
   - matplotlib-base
